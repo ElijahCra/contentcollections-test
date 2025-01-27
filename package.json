@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "contentcollections-test",
   "private": true,
   "sideEffects": false,
   "type": "module",
@@ -19,6 +19,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@content-collections/core": "^0.8.0",
+    "@content-collections/mdx": "^0.2.0",
+    "@content-collections/remix-vite": "^0.1.2",
     "@remix-run/dev": "^2.15.2",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
